@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faranak2
+- 👋 Hi, I’m faranak
 - 👀 I’m interested in Data Mining
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data science
